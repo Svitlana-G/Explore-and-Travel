@@ -1,0 +1,32 @@
+.destinations .flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10%;
+}
+
+.destinations .gallery{
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery img{
+    width: 23%;
+}
+
+.destinations h2{
+    font-size: 2.25rem;
+    color: #000;
+    font-family: 'Playfair Display', serif;
+}
+
+.destinations a{
+    color: #FB8F1D;
+    text-decoration: none;
+    font-size: 1.0625rem;
+    font-weight: 600;
+}
+
+.destinations{
+    margin: 27vh 0;
+}
