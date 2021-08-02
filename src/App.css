@@ -1,4 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Playfair+Display&display=swap');
+
+/* 
+font-family: 'Inter', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
 body{
   color: #7D7987;
   box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
 }

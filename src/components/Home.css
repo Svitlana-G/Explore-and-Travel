@@ -1,0 +1,36 @@
+.home{
+    display: flex;
+    margin: 20vh 10% 10vh 5%;
+}
+
+.home img{
+    width: 50%;
+}
+
+.home div{
+    margin: 1vh 5%;
+}
+
+.home h2{
+    font-size: 3rem;
+    color: #000;
+    font-family: 'Playfair Display', serif;
+}
+
+.home p{
+    font-size: 1.0625rem;
+    line-height: 1.875rem;
+    margin-right: 11%;
+    margin-top: 0;
+}
+
+.home button{
+    background: #FB8F1D;
+    color: #fff;
+    margin-top: 2vh;
+    padding: 1.5vh 10% ;
+    border-radius: 8px;
+    border-width: 0;
+    font-size: 1rem;
+    font-weight: bold;
+}

@@ -20,10 +20,11 @@ function App() {
         <Navigation />
         <Header />
         <Switch>
-          <Route path="/Home" component={Home} />
+
           <Route path="/destinations" component={Destinations} />
           <Route path="/about" component={About} />
           <Route path="/partner" component={Partner} />
+          <Route path="/" component={Home} exact />
         </Switch>
 
       </Router>
