@@ -24,7 +24,7 @@ const Header = () => {
                 <button>Explore</button>
 
             </section>
-            <img src="thousand-01.png" alt="" />
+            <img src="/img/thousand-01.png" alt="" />
         </header>
     );
 }
